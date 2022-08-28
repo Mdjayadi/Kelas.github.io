@@ -1,0 +1,1 @@
+<?php header(‘berkas.kelasbelajarharapan.com/public/’);
